@@ -1,0 +1,16 @@
+#What should we tell player once they reach 3 kills?
+threeKill: ''
+#What should we tell player once they reach 5 kills?
+fiveKill: ''
+#What should we tell player once they reach 7 kills?
+sevenKill: ''
+#What should we tell player once they reach 10 kills?
+tenKill: ''
+#What should we broadcast when a player with 3 kills dies?
+threeDeath: ''
+#What should we broadcast when a player with 5 kills dies?
+fiveDeath: ''
+#What should we broadcast when a player with 7 kills dies?
+sevenDeath: ''
+#What should we broadcast when a player with 9 kills dies?
+tenDeath: ''

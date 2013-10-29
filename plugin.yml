@@ -1,0 +1,7 @@
+name: KillTitle
+version: 0.1
+description: Adds a Name-tag above a player's head based on their "kill-streaks"
+author: Gopaintman
+main: com.katsaroucraft.gopaintman.killtitle.Main
+depend: [TagAPI]
+ 
